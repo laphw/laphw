@@ -9,13 +9,32 @@ The goal of this project is to collect hardware fixes in one place — especiall
 
 hwfix focuses on solving issues like:
 
-- Hibernation not working
-- Fingerprint reader not detected
+### 🖥️ Core hardware issues
+
+- Suspend and hibernation not working
 - Wi-Fi hardware not initializing
+- Bluetooth not detected or unreliable
+- Audio and microphone not working
 - Touchpad palm detection failures
-- Graphics card issues (e.g., NVIDIA drivers)
-- Printer setup and driver issues
-- Audio and microphone problems
+- Graphics card problems (e.g., NVIDIA driver issues)
+- Webcam not detected or black
+- Function keys or hotkeys not working (e.g., brightness, volume)
+- External monitors (HDMI / DisplayPort) not detected
+- Fingerprint reader not detected
+- Printer setup and driver problems
+
+### 🔧 Optional / advanced issues
+
+- Touchscreen or stylus not working
+- Battery not charging or misreporting
+- SD card reader not recognized
+- Laptop speakers vs. headphone jack switching
+- Fan always on or thermal control not working
+- Trackpoint or pointing stick issues (e.g., ThinkPad)
+- Backlight and keyboard backlight control
+- NVMe/SSD not detected or slow performance
+- LTE / mobile broadband not working
+- HiDPI display scaling issues
 
 These solutions are currently **fragmented across the internet**:
 
