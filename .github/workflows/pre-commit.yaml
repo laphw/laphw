@@ -25,3 +25,4 @@ jobs:
 
       - name: Run gitlint
         run: pre-commit run --hook-stage manual gitlint-ci
+        continue-on-error: ${{ github.event_name	== 'pull_request' }} # Don't enforce gitlint in PRs
