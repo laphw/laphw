@@ -22,3 +22,6 @@ jobs:
 
       - name: Run pre-commit
         run: pre-commit run --all-files
+
+      - name: Run gitlint
+        run: pre-commit run --hook-stage manual gitlint-ci
