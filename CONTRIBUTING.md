@@ -21,9 +21,12 @@ Thanks for your interest in contributing to `fixhw`! We welcome contributions of
 Before pushing, run:
 
 ```bash
+pre-commit install
 pre-commit run --all-files
 
 ### Notes on pre-commit
 - The order of the hooks matter, prettier should run first to catch stylistic issues before running markdownlint.
 - prettier and markdownlint can conflict, added the .markdownlint.yaml to disable conflicting rules.
+- codespell: Words that should be skipped by codespell can be added in .codespellrc
+- gitlint: It's important that you run pre-commit install --hook-type commit-msg, even if you've already used pre-commit install before. pre-commit install does not install commit-msg hooks by default! See https://jorisroovers.com/gitlint/latest/commit_hooks/
 ```
