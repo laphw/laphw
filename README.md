@@ -1,13 +1,13 @@
-# fixhw
+# laphw
 
 > “Given enough eyeballs, all bugs are shallow.”  
 > — _Linus’s Law_
 
-## Why use fixhw?
+## Why use laphw?
 
 The goal of this project is to collect hardware fixes in one place — especially for **Linux laptops**, where hardware compatibility can vary.
 
-fixhw focuses on solving issues like:
+laphw focuses on solving issues like:
 
 ### 🖥️ Core hardware issues
 
@@ -42,19 +42,19 @@ These solutions are currently **fragmented across the internet**:
 - Hidden in obscure distro-specific wikis
 - Buried in long Reddit or GitHub issue threads
 
-With a **collaborative model**, fixhw makes solutions more reliable and discoverable:
+With a **collaborative model**, laphw makes solutions more reliable and discoverable:
 
 - ✅ **Pull requests are reviewed** by multiple users
 - 👍 **Users can upvote working solutions** via thumbs-up reactions
 - 🧪 **Multiple variations per fix** can be provided and documented
 
-## How do I use fixhw?
+## How do I use laphw?
 
 🛠️ _Coming soon..._
 
 The CLI will let you browse and apply common fixes from your terminal, similar to [tldr](https://github.com/tldr-pages/tldr).
 
-## How do I contribute to fixhw?
+## How do I contribute to laphw?
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 

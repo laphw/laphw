@@ -1,6 +1,6 @@
-# Contributing to fixhw
+# Contributing to laphw
 
-Thanks for your interest in contributing to `fixhw`! We welcome contributions of fixes, improvements, and new profiles.
+Thanks for your interest in contributing to `laphw`! We welcome contributions of fixes, improvements, and new profiles.
 
 ## Workflow
 
