@@ -1,6 +1,7 @@
 ---
 distributions: ["ubuntu-22.04", "ubuntu-24.04"]
-hardware: ["dell-xps-13-9370"]
+brand: "Dell"
+model: ["xps-13-9370"]
 tags: ["audio", "speakers", "headphones", "sof-firmware"]
 difficulty: "easy"
 tested_by: []

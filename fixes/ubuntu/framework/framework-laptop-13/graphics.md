@@ -1,6 +1,7 @@
 ---
 distributions: ["ubuntu-22.04", "ubuntu-24.04"]
-hardware: ["framework-laptop-13"]
+brand: "Framework"
+model: ["laptop-13"]
 tags: ["graphics", "display", "intel-graphics", "framework"]
 difficulty: "medium"
 tested_by: []

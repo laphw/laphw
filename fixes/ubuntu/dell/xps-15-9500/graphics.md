@@ -1,6 +1,7 @@
 ---
 distributions: ["ubuntu-22.04", "ubuntu-24.04"]
-hardware: ["dell-xps-15-9500"]
+brand: "Dell"
+model: ["xps-15-9500"]
 tags: ["graphics", "nvidia", "optimus", "prime", "display"]
 difficulty: "hard"
 tested_by: []

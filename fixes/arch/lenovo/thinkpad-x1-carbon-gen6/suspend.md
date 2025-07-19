@@ -1,6 +1,7 @@
 ---
 distributions: ["arch"]
-hardware: ["lenovo-thinkpad-x1-carbon-gen6"]
+brand: "Lenovo"
+model: ["thinkpad-x1-carbon-gen6"]
 tags: ["suspend", "sleep", "hibernate", "power", "thinkpad"]
 difficulty: "hard"
 tested_by: []

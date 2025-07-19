@@ -1,6 +1,7 @@
 ---
 distributions: ["ubuntu-22.04", "ubuntu-24.04"]
-hardware: ["hp-elitebook-840-g8"]
+brand: "HP"
+model: ["elitebook-840-g8"]
 tags: ["audio", "speakers", "headphones", "bang-olufsen"]
 difficulty: "medium"
 tested_by: []

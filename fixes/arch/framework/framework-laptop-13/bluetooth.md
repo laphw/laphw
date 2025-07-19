@@ -1,6 +1,7 @@
 ---
 distributions: ["arch"]
-hardware: ["framework-laptop-13"]
+brand: "Framework"
+model: ["laptop-13"]
 tags: ["bluetooth", "wireless", "connectivity", "framework"]
 difficulty: "easy"
 tested_by: []

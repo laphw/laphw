@@ -1,7 +1,8 @@
 ---
 distributions:
   ["opensuse-tumbleweed", "opensuse-leap-15.4", "opensuse-leap-15.5"]
-hardware: ["system76-oryx-pro"]
+brand: "System76"
+model: ["oryx-pro"]
 tags: ["suspend", "hibernate", "power-management", "nvidia"]
 difficulty: "hard"
 tested_by: []

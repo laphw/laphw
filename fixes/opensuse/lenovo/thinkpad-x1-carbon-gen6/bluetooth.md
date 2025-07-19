@@ -1,7 +1,8 @@
 ---
 distributions:
   ["opensuse-tumbleweed", "opensuse-leap-15.4", "opensuse-leap-15.5"]
-hardware: ["lenovo-thinkpad-x1-carbon-gen6"]
+brand: "Lenovo"
+model: ["thinkpad-x1-carbon-gen6"]
 tags: ["bluetooth", "bluez", "pairing"]
 difficulty: "easy"
 tested_by: []

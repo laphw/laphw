@@ -1,7 +1,8 @@
 ---
 distributions:
   ["opensuse-tumbleweed", "opensuse-leap-15.4", "opensuse-leap-15.5"]
-hardware: ["dell-xps-13-9370"]
+brand: "Dell"
+model: ["xps-13-9370"]
 tags: ["wifi", "wireless", "killer-wifi", "intel-wifi"]
 difficulty: "medium"
 tested_by: []

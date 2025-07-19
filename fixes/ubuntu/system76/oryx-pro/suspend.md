@@ -1,6 +1,7 @@
 ---
 distributions: ["ubuntu-22.04", "ubuntu-24.04"]
-hardware: ["system76-oryx-pro"]
+brand: "System76"
+model: ["oryx-pro"]
 tags: ["suspend", "sleep", "hibernate", "power", "system76"]
 difficulty: "medium"
 tested_by: []

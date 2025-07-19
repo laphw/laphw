@@ -1,7 +1,8 @@
 ---
 distributions:
   ["opensuse-tumbleweed", "opensuse-leap-15.4", "opensuse-leap-15.5"]
-hardware: ["framework-laptop-13"]
+brand: "Framework"
+model: ["laptop-13"]
 tags: ["graphics", "intel-graphics", "mesa", "wayland"]
 difficulty: "easy"
 tested_by: []
