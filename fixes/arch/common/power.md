@@ -1,6 +1,7 @@
 ---
 distributions: ["arch"]
-hardware: ["generic"]
+brand: "Generic"
+model: ["all"]
 tags: ["power", "battery", "tlp", "powertop"]
 difficulty: "medium"
 tested_by: []

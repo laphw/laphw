@@ -1,6 +1,7 @@
 ---
 distributions: ["ubuntu-22.04", "ubuntu-24.04"]
-hardware: ["lenovo-thinkpad-t14"]
+brand: "Lenovo"
+model: ["thinkpad-t14"]
 tags: ["wifi", "wireless", "realtek", "intel-wifi", "thinkpad"]
 difficulty: "medium"
 tested_by: []

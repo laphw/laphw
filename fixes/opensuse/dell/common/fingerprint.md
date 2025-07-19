@@ -1,7 +1,8 @@
 ---
 distributions:
   ["opensuse-tumbleweed", "opensuse-leap-15.4", "opensuse-leap-15.5"]
-hardware: ["dell-latitude-series", "dell-xps-series"]
+brand: "Generic"
+model: ["all"]
 tags: ["fingerprint", "fprint", "pam"]
 difficulty: "medium"
 tested_by: []

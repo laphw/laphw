@@ -1,6 +1,7 @@
 ---
 distributions: ["ubuntu-22.04", "ubuntu-24.04"]
-hardware: ["generic"]
+brand: "Generic"
+model: ["all"]
 tags: ["touchpad", "trackpad", "gestures", "palm-detection"]
 difficulty: "easy"
 tested_by: []

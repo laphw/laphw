@@ -1,7 +1,8 @@
 ---
 distributions:
   ["opensuse-tumbleweed", "opensuse-leap-15.4", "opensuse-leap-15.5"]
-hardware: ["generic-laptop"]
+brand: "Generic"
+model: ["all"]
 tags: ["touchpad", "libinput", "synaptics"]
 difficulty: "easy"
 tested_by: []

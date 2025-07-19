@@ -1,6 +1,7 @@
 ---
 distributions: ["arch"]
-hardware: ["dell-xps-13-9370"]
+brand: "Dell"
+model: ["xps-13-9370"]
 tags: ["audio", "speakers", "headphones", "pulseaudio", "pipewire"]
 difficulty: "medium"
 tested_by: []

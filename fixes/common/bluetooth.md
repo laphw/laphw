@@ -1,6 +1,7 @@
 ---
 distributions: ["ubuntu-22.04", "ubuntu-24.04", "arch"]
-hardware: ["generic"]
+brand: "Generic"
+model: ["all"]
 tags: ["bluetooth", "wireless", "connectivity"]
 difficulty: "easy"
 tested_by: []

@@ -1,12 +1,7 @@
 ---
 distributions: ["ubuntu-22.04", "ubuntu-24.04"]
-hardware:
-  [
-    "dell-xps-13-9370",
-    "dell-xps-13-9300",
-    "dell-xps-15-9500",
-    "dell-latitude-7490",
-  ]
+brand: "Dell"
+model: ["xps-13-9370", "xps-13-9300", "xps-15-9500", "latitude-7490"]
 tags: ["fingerprint", "authentication", "biometric", "libfprint"]
 difficulty: "medium"
 tested_by: []

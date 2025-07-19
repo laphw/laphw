@@ -1,6 +1,7 @@
 ---
 distributions: ["ubuntu-22.04", "ubuntu-24.04"]
-hardware: ["lenovo-thinkpad-x1-carbon-gen6"]
+brand: "Lenovo"
+model: ["thinkpad-x1-carbon-gen6"]
 tags: ["bluetooth", "wireless", "connectivity", "thinkpad"]
 difficulty: "easy"
 tested_by: []
